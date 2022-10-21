@@ -39,9 +39,9 @@ public class TestClass {
     public void login_and_logout(){
         logger.info("Log(in|out) Started");
         bookingPageTest bpt = new bookingPageTest(mt.getDriver());
-        bpt.testBookingLogin("poperloper777@gmail.com", "whiLvTN6");
+        bpt.testBookingLogin("...@gmail.com", "whiLvTN6");
         bpt.testBookingLogout();
-        bpt.testBookingLogin("poperloper777@gmail.com", "whiLvTN6");
+        bpt.testBookingLogin("...@gmail.com", "whiLvTN6");
         logger.info("Log(in|out) Ended");
     }
 
