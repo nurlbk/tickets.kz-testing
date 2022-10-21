@@ -1,0 +1,17 @@
+23:08:20.750 [main] INFO  tests.mainTest - Driver Configuration Started
+23:08:22.124 [main] INFO  tests.mainTest - Browser Started
+23:08:23.695 [main] INFO  TestClass - Driver Configuration Ended
+23:08:23.715 [main] INFO  TestClass - Searching Webpage Started
+23:08:26.227 [main] INFO  TestClass - Searching Webpage Ended
+23:08:26.230 [main] INFO  TestClass - Clicking Webpage Started
+23:08:29.569 [main] INFO  TestClass - Clicking Webpage Ended
+23:08:29.570 [main] INFO  TestClass - Log(in|out) Started
+23:08:40.490 [main] INFO  TestClass - Log(in|out) Ended
+23:08:40.491 [main] INFO  TestClass - Searching Ticket Started
+23:08:54.846 [main] INFO  TestClass - Searching Ticket Ended
+23:08:54.847 [main] INFO  TestClass - Clicking Ticket Started
+23:08:56.412 [main] INFO  TestClass - Clicking Ticket Ended
+23:08:56.413 [main] INFO  TestClass - Reserving Ticket Started
+23:09:15.638 [main] INFO  TestClass - Reserving Ticket Ended
+23:09:15.639 [main] INFO  TestClass - Closing Driver Started
+23:09:31.952 [main] INFO  TestClass - Closing Driver Ended
